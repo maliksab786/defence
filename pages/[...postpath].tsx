@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://defencemaniac.com/offering-scholarships/?utm_source=uuu&utm_medium=uuu&utm_champaign=uuu/`
+					`https://https://defencemaniac.com/offering-scholarships/?utm_source=BBB&utm_medium=BBB&utm_champaign=BBB/`
 				}`,
 			},
 		};
