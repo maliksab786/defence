@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					``
+					`https://defencemaniac.com/offering-scholarships/?utm_source=Taha1&utm_medium=Taha1&utm_champaign=Taha1`
 				}`,
 			},
 		};
